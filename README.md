@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="./img/xchup.jpg" width="180" alt="xchup"/>
+  <img src="./img/PASTEBIN.jpg" width="180" alt="PASTEBIN"/>
 </p>
 
-<h1 align="center">xchup v0.1 - WhatsApp Media Transformer 🤖</h1>
-<p align="center">A powerful, session-based WhatsApp bot built on Baileys, designed for media manipulation and automation.</p>
+<h1 align="center">XCHUP-WEB-PAIR-CODE - WHATSAPP SESSION GENERATOR 🤖</h1>
+<p align="center">Keep Up You Your Creativity </p>
